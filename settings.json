@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "mineraidsmp-h91K.aternos.me",
+    "port": 60958,
     "version": "",
     "try-creative": false
   },
